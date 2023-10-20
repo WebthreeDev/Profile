@@ -1,5 +1,5 @@
 <div align="center">
-    <img width="100%" height="250px" src="🚀 Exploring the Web3 universe with skills in JavaScript, HTML, CSS, WebAssembly, and Python. Connect and collaborate with a fellow enthusiast!" alt="cover" />
+    <img width="100%" height="250px" src="https://res-console.cloudinary.com/dket4evl5/thumbnails/v1/image/upload/v1697802159/SV9BTS1XZWJUaHJlZURldi1JX0FNX3sahdmluZ19UaGVfd29ybGRfdXRqbo9j/grid_landscape" alt="cover" />
 </div>
 
 <h1> Hello Fellow Developers! <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width="50px" height="50px"> </h1>
@@ -24,9 +24,4 @@
 - 💬 Talk to me about Python, JavaScript, Freelancing Opportunities, Open Source...
 
 <h2> Skills <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width="32px" height="32px"> </h2>
-<a href="https://github.com/WebthreeDev?tab=repositories&q=&type=&language=python&sort="><img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg"></a>
-<a href="https://github.com/WebthreeDev?tab=repositories&q=&type=&language=reactjs&sort="><img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg"></a>
-<a href="https://github.com/WebthreeDev?tab=repositories&q=&type=&language=javascript&sort="><img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg"></a>
-<a href="https://github.com/WebthreeDev?tab=repositories&q=&type=&language=javascript&sort="><img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/solidity.svg"></a>
-<a href="https://github.com/WebthreeDev?tab=repositories&q=&type=&language=javascript&sort="><img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/node.svg"></a>
-<a href="https://github.com/WebthreeDev?tab=repositories&q=&type=&language=javascript&sort="><img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/npm.svg"></a>
+<a href="https://github.com/WebthreeDev?tab=repositories&q=&type=&language=python&sort="><img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAbout
