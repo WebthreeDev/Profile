@@ -1,18 +1,17 @@
 <div align="center">
-    <img width="100%" height="250px" src="🚀 Saving the Web3 universe with skills ![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,python). Connect and collaborate with a fellow Developer AKA World Saver!" alt="cover" />
+    <img width="100%" height="250px" src="🚀 Exploring the Web3 universe with skills in JavaScript, HTML, CSS, WebAssembly, and Python. Connect and collaborate with a fellow enthusiast!" alt="cover" />
 </div>
 
-<h1> Hello Fellow < Developers/ >! <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width="50px" height="50px"> </h1>
+<h1> Hello Fellow Developers! <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width="50px" height="50px"> </h1>
 <p align="center">
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/WebthreeDev.https://github.com/WebthreeDev)
 
 </p>
-<div size="20px"> Hi! My name is WebthreeDeveloper, I Wish You To know i am Here To do one, Thing: Save The World  With My Code
-. Feel free to reach out if you need a Developer who knows how to save the world.
+<div style="font-size: 20px;"> Hi! I'm Web Three Developer, and I'm here for one thing: Saving The World With My Code. Feel free to reach out if you need a Developer who knows how to make a difference.
 </div>
 
-<h2> About Me <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width="100px" height="100px"></h2>
+<h2> About Me <img src="https://media.tenor.com/gON6g6pAbsgAAAAC/ethereum.gif" width="100px" height="100px"></h2>
 
 <img width="55%" align="right" alt="Github" src="https://res.cloudinary.com/dket4evl5/image/upload/v1697801280/git-header_ybknap.svg" />
 
@@ -25,6 +24,9 @@
 - 💬 Talk to me about Python, JavaScript, Freelancing Opportunities, Open Source...
 
 <h2> Skills <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width="32px" height="32px"> </h2>
-<a href="https://github.com/https://github.com/WebthreeDev?tab=repositories&q=&type=&language=python&sort="><img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg"></a>
-<a href="https://github.com/https://github.com/WebthreeDev?tab=repositories&q=&type=&language=reactjs&sort="><img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg"></a>
-<a href="https://github.com/https://github.com/Web
+<a href="https://github.com/WebthreeDev?tab=repositories&q=&type=&language=python&sort="><img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg"></a>
+<a href="https://github.com/WebthreeDev?tab=repositories&q=&type=&language=reactjs&sort="><img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg"></a>
+<a href="https://github.com/WebthreeDev?tab=repositories&q=&type=&language=javascript&sort="><img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg"></a>
+<a href="https://github.com/WebthreeDev?tab=repositories&q=&type=&language=javascript&sort="><img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/solidity.svg"></a>
+<a href="https://github.com/WebthreeDev?tab=repositories&q=&type=&language=javascript&sort="><img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/node.svg"></a>
+<a href="https://github.com/WebthreeDev?tab=repositories&q=&type=&language=javascript&sort="><img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/npm.svg"></a>
