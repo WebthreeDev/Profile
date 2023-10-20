@@ -1,2 +1,1 @@
-# Profile
-Showcasing my Web3 and blockchain skills. JavaScript, Node.js, Web3, Solidity, and Python enthusiast. Connect and collaborate!
+🚀 Exploring the Web3 universe with skills in ![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,python). Connect and collaborate with a fellow enthusiast!
